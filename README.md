@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB655: The Next Generation of Teams Administration
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Get hands-on with the latest Teams administration innovations. Explore advanced AI-powered administration and troubleshooting with TCH Insights in TAC Copilot, Custom RBAC, Remote Log Collection, Client Repair, and unified monitoring across meetings, calls, and rooms. Set up and administer Teams devices with Teams Device Management in the Pro Management Portal. Learn how these capabilities simplify day-to-day administration and help IT operate proactively at scale.
 
 ### 🚀 Getting started
 
