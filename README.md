@@ -41,21 +41,15 @@ Get hands-on with the latest Teams administration innovations. Explore advanced 
 
 #### In a guided session
 
-If you're following along during a live session:
-
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+1. Start the `Win11-Pro-Base` virtual machine and sign in with the attendee credentials in [`instructions/README.md`](instructions/README.md).
+2. Use the admin credentials provided there for Teams admin center and Pro Management Portal activities.
+3. Follow the [step-by-step lab instructions](instructions/README.md) with your instructor.
 
 #### On your own
 
-If you're learning at your own pace:
-
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+1. Start the `Win11-Pro-Base` virtual machine and sign in with the attendee credentials in [`instructions/README.md`](instructions/README.md).
+2. Use the admin credentials provided there for Teams admin center and Pro Management Portal activities.
+3. Work through the [step-by-step lab instructions](instructions/README.md) at your own pace.
 
 ### 🎯 Learning outcomes
 
