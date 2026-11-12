@@ -37,7 +37,7 @@ To begin, log into the virtual machine using the following credentials:
 
 1. Navigate to **Meetings > Meetings**.
 2. Review the list of **In-progress meetings**.
-3. Locate +++[specific in-progress meeting]+++ by searching for the organizer name.
+3. Locate [specific in-progress meeting] by searching for the organizer name.
 4. Select the meeting to open its details. Review the issue summary and participant list.
 5. Open an issue to review the affected participants and available diagnostic information.
 6. Open **Completed meetings** and set the date range to the last seven days.
@@ -101,7 +101,7 @@ To begin, log into the virtual machine using the following credentials:
 4. Go to **Settings > Groups**.
 5. Review the existing groups. Groups can reflect your organization's structure to simplify role-based access control and alert reporting.
 6. Create a group named +++Ignite Rooms [lab identifier]+++.
-7. Add +++[Lab room/device]+++ to the group and save your changes.
+7. Add [Lab room/device] to the group and save your changes.
 8. Open the group and verify its membership.
 
 ### Keep Teams devices up to date
@@ -109,7 +109,7 @@ To begin, log into the virtual machine using the following credentials:
 1. In the left navigation menu, expand **Updates** and select **Ring Configuration**.
 2. Review the **Staging**, **General**, and **Executive** rings shown in the lab environment.
 3. Compare the number of devices assigned to each ring and the configured completion times.
-4. Open the **General** ring and locate +++[Lab room/device]+++.
+4. Open the **General** ring and locate [Lab room/device].
 5. Move the designated device to the **Staging** ring and save the assignment.
 6. Open the **Staging** ring and verify that the device is now assigned to it.
 7. Review how update rings let you test updates on a small set of devices before deploying them more broadly.
@@ -118,7 +118,7 @@ To begin, log into the virtual machine using the following credentials:
 ### Investigate device issues
 
 1. Go to **Rooms** or **Phones**, depending on the device assigned for this lab.
-2. Select +++[Lab room/device]+++.
+2. Select [Lab room/device].
 3. Open the **Status** tab and review the available health signals.
 4. Identify any unhealthy signals and review their details.
 5. Open the **Activity** tab and review any recorded remediation activity.
