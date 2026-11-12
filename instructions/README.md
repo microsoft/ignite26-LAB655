@@ -1,22 +1,5 @@
 # Welcome to your lab environment
 
-To begin, log into the virtual machine using the following credentials:
-
-**Virtual machine:** `Win11-Pro-Base`
-
-**Username:** +++AlexW@@lab.CloudCredential(WWLM365EnterprisewithCalling).TenantName+++
-
-**Temporary Access Pass:** +++@lab.Variable(TAP)+++
-
-**User password:** +++@lab.CloudCredential(WWLM365EnterprisewithCalling).UserPassword+++
-
-**Admin username:** +++@lab.CloudCredential(WWLM365EnterprisewithCalling).AdministrativeUsername+++
-
-**Admin Temporary Access Pass:** +++@lab.Variable(TAP2)+++
-
-**Admin password:** +++@lab.CloudCredential(WWLM365EnterprisewithCalling).AdministrativePassword+++
-
----
 
 ## Foundations for Teams administration at scale
 
