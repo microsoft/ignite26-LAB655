@@ -61,15 +61,17 @@ If you're learning at your own pace:
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Explore new Teams administration capabilities—including AI-powered insights, Teams Custom RBAC, Teams Meeting Management, and device management—to improve administration outcomes for your organization.
+- Apply Teams Custom RBAC to tailor administrative roles to your organization’s needs.
+- Set up and administer Teams devices through Teams Device Management in the Pro Management Portal.
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Teams admin center
+- Teams Custom RBAC
+- Teams Meeting Management
+- M365 Copilot for Admins
+- Teams Devices Management & Pro Management Portal
 
 ### 📚 Continue your learning
 
@@ -108,15 +110,20 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/snicha">
+        <img src="https://github.com/snicha.png" width="100px;" alt="Snigdha Chaturvedi"/><br />
+        <sub><b>Snigdha Chaturvedi</b></sub></a><br />
+            <a href="https://github.com/snicha" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="https://github.com/DivySri-RK">
+        <img src="https://github.com/DivySri-RK.png" width="100px;" alt="Divya Sri R K"/><br />
+        <sub><b>Divya Sri R K</b></sub></a><br />
+            <a href="https://github.com/DivySri-RK" title="talk">📢</a>
     </td>
 </tr></table>
 
 ### ⚖️ Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 
 Any use of third-party trademarks or logos are subject to those third-party's policies.
